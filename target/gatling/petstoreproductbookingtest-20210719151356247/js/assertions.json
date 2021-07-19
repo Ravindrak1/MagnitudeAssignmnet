@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.petstoreProductBookingTest",
+  "simulationId": "petstoreproductbookingtest",
+  "start": 1626707636247,
+  "description": "ok",
+  "scenarios": ["PetStoreTestClass"],
+  "assertions": [
+
+  ]
+}

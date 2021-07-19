@@ -1,0 +1,6 @@
+RUN	simulations.petstoreProductBookingTest	petstoreproductbookingtest	1626704065523	ok	3.6.1
+ERROR	request_0: Failed to build request: url ${HostUrl}/ can't be parsed into an Uri: j.l.IllegalArgumentException: ${HostUrl}/ could not be parsed into a proper Uri, missing scheme 	1626704066832
+USER	PetStoreTestClass	START	1626704066818
+ERROR	EnterTheStore: Failed to build request: url ${HostUrl}/actions/Catalog.action can't be parsed into an Uri: j.l.IllegalArgumentException: ${HostUrl}/actions/Catalog.action could not be parsed into a proper Uri, missing scheme 	1626704070838
+ERROR	ClickOnSignIn: Failed to build request: url ${HostUrl}/actions/Account.action;jsessionid=F97D9A3284D2C71DA3D0B44E1F367375?signonForm= can't be parsed into an Uri: j.l.IllegalArgumentException: ${HostUrl}/actions/Account.action;jsessionid=F97D9A3284D2C71DA3D0B44E1F367375?signonForm= could not be parsed into a proper Uri, missing scheme 	1626704076840
+USER	PetStoreTestClass	END	1626704082849
